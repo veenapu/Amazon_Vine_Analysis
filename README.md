@@ -22,16 +22,19 @@ The analysis does the following:
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
 ### Total number of Vine reviews and non-Vine reviews
-fig 1
-fig 2
+![total_vine_reviews](https://github.com/veenapu/Amazon_Vine_Analysis/blob/main/Images/fig1_total_vine_reviews.PNG)
+
+![total_non_vine_reviews](https://github.com/veenapu/Amazon_Vine_Analysis/blob/main/Images/fig2_total_non_vine_reviews.PNG)
 
 ### Total number of 5-star Vine reviews and 5-star non-Vine reviews
-fig 3
-fig 4
+![no_of_5_star_reviews](https://github.com/veenapu/Amazon_Vine_Analysis/blob/main/Images/fig3_total_vine_5_star_reviews.PNG)
+
+![no_of_5_star_non_vine_reviews](https://github.com/veenapu/Amazon_Vine_Analysis/blob/main/Images/fig4_total_non_vine_5_star_reviews.PNG)
 
 ### Total percentage of 5-star Vine reviews and 5-star non-Vine reviews
-fig 5
-fig 6
+![total_percentage_vine_reviews](https://github.com/veenapu/Amazon_Vine_Analysis/blob/main/Images/fig5_total_percentage_vine_reviews.PNG)
+
+![total_percentage_non_vine_reviews](https://github.com/veenapu/Amazon_Vine_Analysis/blob/main/Images/fig6_toal_percentage_non_vine_reviews.PNG)
 
 ## Summary: 
 Looking at the analysis, positivity bias can be seen for the reviews in the Vine program.  51 % of Vine reviews were 5 stars while the percentage of non-Vine reviews is ony 39%. 
