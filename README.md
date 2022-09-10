@@ -24,7 +24,10 @@ The analysis does the following:
 ### Total number of Vine reviews and non-Vine reviews
 ![total_vine_reviews](https://github.com/veenapu/Amazon_Vine_Analysis/blob/main/Images/fig1_total_vine_reviews.PNG)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ac5d69b48a412ef21ecab849aed52dc9128302ad
 ![total_non_vine_reviews](https://github.com/veenapu/Amazon_Vine_Analysis/blob/main/Images/fig2_total_non_vine_reviews.PNG)
 
 ### Total number of 5-star Vine reviews and 5-star non-Vine reviews
@@ -40,4 +43,8 @@ The analysis does the following:
 ## Summary: 
 Looking at the analysis, positivity bias can be seen for the reviews in the Vine program.  51 % of Vine reviews were 5 stars while the percentage of non-Vine reviews is ony 39%. 
 
+<<<<<<< HEAD
 Additionally, a statistical analysis can be done for the star rating for the vine and non-vine reviews.
+=======
+Additionally, a statistical analysis can be done for trhe star rating for the vine and non-vine reviews.
+>>>>>>> ac5d69b48a412ef21ecab849aed52dc9128302ad
